@@ -4,7 +4,7 @@
 
 🌱 Currently learning Full-Stack Development
 
-🤝 Actively looking to collaborate on AR/VR and UI/UX design internships
+🤝 Actively looking to collaborate on Unity development and UI/UX design internships
 
 💡 Always eager to explore and build creative digital experiences
 
